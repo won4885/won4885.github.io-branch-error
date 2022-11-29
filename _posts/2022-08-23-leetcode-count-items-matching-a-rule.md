@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1773. Count Items Matching a Rule"
-excerpt: "https://leetcode.com/problems/count-items-matching-a-rule/"
+excerpt: "Count Items Matching a Rule"
 
 categories:
   - LeetCode

@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmer 문자열 내 p와 y의 개수"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12916"
+excerpt: "문자열 내 p와 y의 개수"
 
 categories:
   - Programmers

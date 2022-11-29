@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Day of the Programmer"
-excerpt: "https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true"
+excerpt: "Day of the Programmer"
 
 categories:
   - HackerRank

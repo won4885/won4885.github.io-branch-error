@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Comparator"
-excerpt: "https://www.hackerrank.com/challenges/java-comparator/problem?isFullScreen=true"
+excerpt: "Java Comparator"
 
 categories:
   - HackerRank

@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Exception Handling"
-excerpt: "https://www.hackerrank.com/challenges/java-exception-handling/problem?isFullScreen=true"
+excerpt: "Java Exception Handling"
 
 categories:
   - HackerRank

@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1859. Sorting the Sentence"
-excerpt: "https://leetcode.com/problems/sorting-the-sentence/"
+excerpt: "Sorting the Sentence"
 
 categories:
   - LeetCode

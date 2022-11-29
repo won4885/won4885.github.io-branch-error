@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Staircase"
-excerpt: "https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true"
+excerpt: "Staircase"
 
 categories:
   - HackerRank

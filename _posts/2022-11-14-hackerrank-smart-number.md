@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Smart Number"
-excerpt: "https://www.hackerrank.com/challenges/smart-number/problem?isFullScreen=true"
+excerpt: "Smart Number"
 
 categories:
   - HackerRank

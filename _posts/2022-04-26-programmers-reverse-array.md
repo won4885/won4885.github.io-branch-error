@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 자연수 뒤집어 배열로 만들기"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12932"
+excerpt: "자연수 뒤집어 배열로 만들기"
 
 categories:
   - Programmers

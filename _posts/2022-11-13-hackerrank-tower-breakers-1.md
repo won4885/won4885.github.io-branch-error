@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Tower Breakers"
-excerpt: "https://www.hackerrank.com/challenges/tower-breakers-1/problem?isFullScreen=true"
+excerpt: "Tower Breakers"
 
 categories:
   - HackerRank

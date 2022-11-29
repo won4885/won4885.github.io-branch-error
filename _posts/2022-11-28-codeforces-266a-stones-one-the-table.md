@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 266A - Stones on the Table"
-excerpt: "https://codeforces.com/problemset/problem/266/A"
+excerpt: "Stones on the Table"
 
 categories:
   - Codeforces

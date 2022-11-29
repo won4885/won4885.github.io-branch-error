@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Sales by Match"
-excerpt: "https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true"
+excerpt: "Sales by Match"
 
 categories:
   - HackerRank

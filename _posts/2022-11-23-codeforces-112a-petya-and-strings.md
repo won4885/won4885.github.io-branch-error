@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 112A - Petya and Strings"
-excerpt: "https://codeforces.com/problemset/problem/112/A"
+excerpt: "Petya and Strings"
 
 categories:
   - Codeforces

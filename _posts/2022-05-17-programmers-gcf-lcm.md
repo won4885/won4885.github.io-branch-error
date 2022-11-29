@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 최대공약수와 최소공배수"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12940"
+excerpt: "최대공약수와 최소공배수"
 
 categories:
   - Programmers

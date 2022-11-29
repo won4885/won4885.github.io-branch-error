@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Angry Professor"
-excerpt: "https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true"
+excerpt: "Angry Professor"
 
 categories:
   - HackerRank

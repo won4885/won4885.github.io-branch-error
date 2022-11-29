@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 158A - Next Round"
-excerpt: "https://codeforces.com/problemset/problem/158/A"
+excerpt: "Next Round"
 
 categories:
   - Codeforces

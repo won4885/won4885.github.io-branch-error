@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Tag Content Extractor"
-excerpt: "https://www.hackerrank.com/challenges/tag-content-extractor/problem?isFullScreen=true"
+excerpt: "Tag Content Extractor"
 
 categories:
   - HackerRank

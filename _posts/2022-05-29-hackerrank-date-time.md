@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Date and Time"
-excerpt: "https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true"
+excerpt: "Java Date and Time"
 
 categories:
   - HackerRank

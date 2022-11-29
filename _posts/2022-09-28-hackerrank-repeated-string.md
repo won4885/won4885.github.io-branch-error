@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Repeated String"
-excerpt: "https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true"
+excerpt: "Repeated String"
 
 categories:
   - HackerRank

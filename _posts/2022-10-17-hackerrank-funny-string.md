@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Funny String"
-excerpt: "https://www.hackerrank.com/challenges/funny-string/problem?isFullScreen=true"
+excerpt: "Funny String"
 
 categories:
   - HackerRank

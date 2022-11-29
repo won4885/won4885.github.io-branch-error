@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Sherlock and Squares"
-excerpt: "https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true"
+excerpt: "Sherlock and Squares"
 
 categories:
   - HackerRank

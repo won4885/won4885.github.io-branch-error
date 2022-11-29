@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1929. Concatenation of Array"
-excerpt: "https://leetcode.com/problems/concatenation-of-array/"
+excerpt: "Concatenation of Array"
 
 categories:
   - LeetCode

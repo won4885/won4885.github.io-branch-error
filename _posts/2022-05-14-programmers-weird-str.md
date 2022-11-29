@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 이상한 문자 만들기"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12930"
+excerpt: "이상한 문자 만들기"
 
 categories:
   - Programmers

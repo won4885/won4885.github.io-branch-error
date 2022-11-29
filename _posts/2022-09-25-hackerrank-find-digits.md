@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Find Digits"
-excerpt: "https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true"
+excerpt: "Find Digits"
 
 categories:
   - HackerRank

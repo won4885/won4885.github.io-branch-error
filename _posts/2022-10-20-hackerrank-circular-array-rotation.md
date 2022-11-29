@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Circular Array Rotation"
-excerpt: "https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true"
+excerpt: "Circular Array Rotation"
 
 categories:
   - HackerRank

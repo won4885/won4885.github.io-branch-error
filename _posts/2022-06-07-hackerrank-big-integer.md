@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java BigInteger"
-excerpt: "https://www.hackerrank.com/challenges/java-biginteger/problem?isFullScreen=true"
+excerpt: "Java BigInteger"
 
 categories:
   - HackerRank

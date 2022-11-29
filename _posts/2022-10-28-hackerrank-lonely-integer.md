@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Lonely Integer"
-excerpt: "https://www.hackerrank.com/challenges/lonely-integer/problem?isFullScreen=true"
+excerpt: "Lonely Integer"
 
 categories:
   - HackerRank

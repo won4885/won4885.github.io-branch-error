@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java String Reverse"
-excerpt: "https://www.hackerrank.com/challenges/java-string-reverse/problem?isFullScreen=true"
+excerpt: "Java String Reverse"
 
 categories:
   - HackerRank

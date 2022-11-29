@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Mini-Max Sum"
-excerpt: "https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true"
+excerpt: "Mini-Max Sum"
 
 categories:
   - HackerRank

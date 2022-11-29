@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Reflection - Attributes"
-excerpt: "https://www.hackerrank.com/challenges/java-reflection-attributes/problem?isFullScreen=true"
+excerpt: "Java Reflection - Attributes"
 
 categories:
   - HackerRank

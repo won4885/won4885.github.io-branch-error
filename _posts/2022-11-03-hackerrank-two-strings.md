@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Two Strings"
-excerpt: "https://www.hackerrank.com/challenges/two-strings/problem?isFullScreen=true"
+excerpt: "Two Strings"
 
 categories:
   - HackerRank

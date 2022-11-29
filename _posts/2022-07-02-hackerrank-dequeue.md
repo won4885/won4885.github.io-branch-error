@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Dequeue"
-excerpt: "https://www.hackerrank.com/challenges/java-dequeue/problem?isFullScreen=true"
+excerpt: "Java Dequeue"
 
 categories:
   - HackerRank

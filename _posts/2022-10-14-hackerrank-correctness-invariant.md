@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Correctness and the Loop Invariant"
-excerpt: "https://www.hackerrank.com/challenges/correctness-invariant/problem?isFullScreen=true"
+excerpt: "Correctness and the Loop Invariant"
 
 categories:
   - HackerRank

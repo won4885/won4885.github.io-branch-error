@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Subarray"
-excerpt: "https://www.hackerrank.com/challenges/java-negative-subarray/problem?isFullScreen=true"
+excerpt: "Java Subarray"
 
 categories:
   - HackerRank

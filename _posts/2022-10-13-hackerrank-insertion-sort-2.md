@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Insertion Sort - Part 2"
-excerpt: "https://www.hackerrank.com/challenges/insertionsort2/problem?isFullScreen=true"
+excerpt: "Insertion Sort - Part 2"
 
 categories:
   - HackerRank

@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Luck Balance"
-excerpt: "https://www.hackerrank.com/challenges/luck-balance/problem?isFullScreen=true"
+excerpt: "Luck Balance"
 
 categories:
   - HackerRank

@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 수박수박수박수박수박수?"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12922"
+excerpt: "수박수박수박수박수박수?"
 
 categories:
   - Programmers

@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Minimum Distances"
-excerpt: "https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true"
+excerpt: "Minimum Distances"
 
 categories:
   - HackerRank

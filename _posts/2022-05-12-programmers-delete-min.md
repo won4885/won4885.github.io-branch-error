@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 제일 작은 수 제거하기"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12935"
+excerpt: "제일 작은 수 제거하기"
 
 categories:
   - Programmers

@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java BigDecimal"
-excerpt: "https://www.hackerrank.com/challenges/java-bigdecimal/problem?isFullScreen=true"
+excerpt: "Java BigDecimal"
 
 categories:
   - HackerRank

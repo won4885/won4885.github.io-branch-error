@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 2011. Final Value of Variable After Performing Operations"
-excerpt: "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/submissions/"
+excerpt: "Final Value of Variable After Performing Operations"
 
 categories:
   - LeetCode

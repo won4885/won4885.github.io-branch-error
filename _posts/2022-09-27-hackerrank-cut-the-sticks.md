@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Cut the sticks"
-excerpt: "https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true"
+excerpt: "Cut the sticks"
 
 categories:
   - HackerRank

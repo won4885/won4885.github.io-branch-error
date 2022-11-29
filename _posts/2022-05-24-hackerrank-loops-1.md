@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Loops I"
-excerpt: "https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true"
+excerpt: "Java Loops I"
 
 categories:
   - HackerRank

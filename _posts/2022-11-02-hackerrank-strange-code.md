@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Strange Counter"
-excerpt: "https://www.hackerrank.com/challenges/strange-code/problem?isFullScreen=true"
+excerpt: "Strange Counter"
 
 categories:
   - HackerRank

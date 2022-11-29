@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 행렬의 덧셈"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12950"
+excerpt: "행렬의 덧셈"
 
 categories:
   - Programmers

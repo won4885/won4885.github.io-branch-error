@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 118A - String Task"
-excerpt: "https://codeforces.com/problemset/problem/118/A"
+excerpt: "String Task"
 
 categories:
   - Codeforces

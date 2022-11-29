@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Prime Checker"
-excerpt: "https://www.hackerrank.com/challenges/prime-checker/problem?isFullScreen=true"
+excerpt: "Prime Checker"
 
 categories:
   - HackerRank

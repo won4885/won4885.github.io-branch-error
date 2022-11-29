@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1720. Decode XORed Array"
-excerpt: "https://leetcode.com/problems/decode-xored-array/"
+excerpt: "Decode XORed Array"
 
 categories:
   - LeetCode

@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Marc's Cakewalk"
-excerpt: "https://www.hackerrank.com/challenges/marcs-cakewalk/problem?isFullScreen=true"
+excerpt: "Marc's Cakewalk"
 
 categories:
   - HackerRank

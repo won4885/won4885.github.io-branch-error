@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Exception Handling (Try-catch)"
-excerpt: "https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem?isFullScreen=true"
+excerpt: "Java Exception Handling (Try-catch)"
 
 categories:
   - HackerRank

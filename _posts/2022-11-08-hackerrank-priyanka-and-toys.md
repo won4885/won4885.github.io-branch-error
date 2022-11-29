@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Priyanka and Toys"
-excerpt: "https://www.hackerrank.com/challenges/priyanka-and-toys/problem?isFullScreen=true"
+excerpt: "Priyanka and Toys"
 
 categories:
   - HackerRank

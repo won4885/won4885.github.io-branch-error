@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Apple and Orange"
-excerpt: "https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true"
+excerpt: "Apple and Orange"
 
 categories:
   - HackerRank

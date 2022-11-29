@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Map"
-excerpt: "https://www.hackerrank.com/challenges/phone-book/problem?isFullScreen=true"
+excerpt: "Java Map"
 
 categories:
   - HackerRank

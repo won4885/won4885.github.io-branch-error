@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Valid Username Regular Expression"
-excerpt: "https://www.hackerrank.com/challenges/valid-username-checker/problem?isFullScreen=true"
+excerpt: "Valid Username Regular Expression"
 
 categories:
   - HackerRank

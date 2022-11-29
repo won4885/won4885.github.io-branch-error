@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 문자열 다루기 기본"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12918"
+excerpt: "문자열 다루기 기본"
 
 categories:
   - Programmers

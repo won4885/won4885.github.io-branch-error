@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Instanceof keyword"
-excerpt: "https://www.hackerrank.com/challenges/java-instanceof-keyword/problem?isFullScreen=true"
+excerpt: "Java Instanceof keyword"
 
 categories:
   - HackerRank

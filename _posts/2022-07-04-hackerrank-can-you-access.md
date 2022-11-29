@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Can You Access?"
-excerpt: "https://www.hackerrank.com/challenges/can-you-access/problem?isFullScreen=true"
+excerpt: "Can You Access?"
 
 categories:
   - HackerRank

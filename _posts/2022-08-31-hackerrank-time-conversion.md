@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Time Conversion"
-excerpt: "https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true"
+excerpt: "Time Conversion"
 
 categories:
   - HackerRank

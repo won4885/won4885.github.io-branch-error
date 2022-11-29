@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 281A - Word Capitalization"
-excerpt: "https://codeforces.com/problemset/problem/281/A"
+excerpt: "Word Capitalization"
 
 categories:
   - Codeforces

@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Grading Students"
-excerpt: "https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true"
+excerpt: "Grading Students"
 
 categories:
   - HackerRank

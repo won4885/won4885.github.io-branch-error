@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Breaking the Records"
-excerpt: "https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true"
+excerpt: "Breaking the Records"
 
 categories:
   - HackerRank

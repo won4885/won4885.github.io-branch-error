@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Bill Division"
-excerpt: "https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true"
+excerpt: "Bill Division"
 
 categories:
   - HackerRank

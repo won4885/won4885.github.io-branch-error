@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Beautiful Triplets"
-excerpt: "https://www.hackerrank.com/challenges/beautiful-triplets/problem?isFullScreen=true"
+excerpt: "Beautiful Triplets"
 
 categories:
   - HackerRank

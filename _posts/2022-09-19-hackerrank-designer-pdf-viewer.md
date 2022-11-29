@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Designer PDF Viewer"
-excerpt: "https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true"
+excerpt: "Designer PDF Viewer"
 
 categories:
   - HackerRank

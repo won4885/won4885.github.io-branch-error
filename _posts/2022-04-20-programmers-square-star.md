@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 직사각형 별찍기"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12969"
+excerpt: "직사각형 별찍기"
 
 categories:
   - Programmers

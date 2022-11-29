@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Cats and a Mouse"
-excerpt: "https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true"
+excerpt: "Cats and a Mouse"
 
 categories:
   - HackerRank

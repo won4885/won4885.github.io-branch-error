@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java String Tokens"
-excerpt: "https://www.hackerrank.com/challenges/java-string-tokens/problem?isFullScreen=true"
+excerpt: "Java String Tokens"
 
 categories:
   - HackerRank

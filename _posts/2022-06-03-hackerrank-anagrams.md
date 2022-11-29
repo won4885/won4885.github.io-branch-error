@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Anagrams"
-excerpt: "https://www.hackerrank.com/challenges/java-anagrams/problem?isFullScreen=true"
+excerpt: "Java Anagrams"
 
 categories:
   - HackerRank

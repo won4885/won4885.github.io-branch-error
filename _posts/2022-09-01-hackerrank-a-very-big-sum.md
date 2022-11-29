@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank A Very Big Sum"
-excerpt: "https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true"
+excerpt: "A Very Big Sum"
 
 categories:
   - HackerRank

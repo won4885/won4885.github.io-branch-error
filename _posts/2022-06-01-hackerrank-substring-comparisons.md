@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Substring Comparisons"
-excerpt: "https://www.hackerrank.com/challenges/java-string-compare/problem?isFullScreen=true"
+excerpt: "Java Substring Comparisons"
 
 categories:
   - HackerRank

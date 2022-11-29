@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Picking Numbers"
-excerpt: "https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true"
+excerpt: "Picking Numbers"
 
 categories:
   - HackerRank

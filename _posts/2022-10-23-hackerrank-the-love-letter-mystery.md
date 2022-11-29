@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank The Love-Letter Mystery"
-excerpt: "https://www.hackerrank.com/challenges/the-love-letter-mystery/problem?isFullScreen=true"
+excerpt: "The Love-Letter Mystery"
 
 categories:
   - HackerRank

@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Intro to Tutorial Challenges"
-excerpt: "https://www.hackerrank.com/challenges/tutorial-intro/problem?isFullScreen=true"
+excerpt: "Intro to Tutorial Challenges"
 
 categories:
   - HackerRank

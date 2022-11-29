@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Plus Minus"
-excerpt: "https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true"
+excerpt: "Plus Minus"
 
 categories:
   - HackerRank

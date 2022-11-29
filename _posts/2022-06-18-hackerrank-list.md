@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java List"
-excerpt: "https://www.hackerrank.com/challenges/java-list/problem?isFullScreen=true"
+excerpt: "Java List"
 
 categories:
   - HackerRank

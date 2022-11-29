@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1672. Richest Customer Wealth"
-excerpt: "https://leetcode.com/problems/richest-customer-wealth/"
+excerpt: "Richest Customer Wealth"
 
 categories:
   - LeetCode

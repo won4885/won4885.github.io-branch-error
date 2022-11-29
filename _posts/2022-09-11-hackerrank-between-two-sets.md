@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Between Two Sets"
-excerpt: "https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true"
+excerpt: "Between Two Sets"
 
 categories:
   - HackerRank

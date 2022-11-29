@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Compare the Triplets"
-excerpt: "https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true"
+excerpt: "Compare the Triplets"
 
 categories:
   - HackerRank

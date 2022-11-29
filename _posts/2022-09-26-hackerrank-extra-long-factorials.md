@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Extra Long Factorials"
-excerpt: "https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true"
+excerpt: "Extra Long Factorials"
 
 categories:
   - HackerRank

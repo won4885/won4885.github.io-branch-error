@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java End-of-file"
-excerpt: "https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true"
+excerpt: "Java End-of-file"
 
 categories:
   - HackerRank

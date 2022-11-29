@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1108. Defanging an IP Address"
-excerpt: "https://leetcode.com/problems/defanging-an-ip-address/submissions/"
+excerpt: "Defanging an IP Address"
 
 categories:
   - LeetCode

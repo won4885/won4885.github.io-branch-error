@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Flipping bits"
-excerpt: "https://www.hackerrank.com/challenges/flipping-bits/problem?isFullScreen=true"
+excerpt: "Flipping bits"
 
 categories:
   - HackerRank

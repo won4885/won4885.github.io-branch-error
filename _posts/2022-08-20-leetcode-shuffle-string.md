@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1528. Shuffle String"
-excerpt: "https://leetcode.com/problems/shuffle-string/"
+excerpt: "Shuffle String"
 
 categories:
   - LeetCode

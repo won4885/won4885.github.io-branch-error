@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 263A - Beautiful Matrix"
-excerpt: "https://codeforces.com/problemset/problem/263/A"
+excerpt: "Beautiful Matrix"
 
 categories:
   - Codeforces

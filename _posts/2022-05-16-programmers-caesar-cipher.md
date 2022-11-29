@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 시저 암호"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12926"
+excerpt: "시저 암호"
 
 categories:
   - Programmers

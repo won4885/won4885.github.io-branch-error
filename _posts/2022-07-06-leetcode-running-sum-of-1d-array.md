@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1480. Running Sum of 1d Array"
-excerpt: "https://leetcode.com/problems/running-sum-of-1d-array/"
+excerpt: "Running Sum of 1d Array"
 
 categories:
   - LeetCode

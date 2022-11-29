@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1365. How Many Numbers Are Smaller Than the Current Number"
-excerpt: "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/"
+excerpt: "How Many Numbers Are Smaller Than the Current Number"
 
 categories:
   - LeetCode

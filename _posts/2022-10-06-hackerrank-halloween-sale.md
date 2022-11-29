@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Halloween Sale"
-excerpt: "https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true"
+excerpt: "Halloween Sale"
 
 categories:
   - HackerRank

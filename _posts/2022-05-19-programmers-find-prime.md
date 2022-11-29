@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 소수 찾기"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12921"
+excerpt: "소수 찾기"
 
 categories:
   - Programmers

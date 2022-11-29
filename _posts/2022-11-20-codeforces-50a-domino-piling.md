@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 50A - Domino piling"
-excerpt: "https://codeforces.com/problemset/problem/50/A"
+excerpt: "Domino piling"
 
 categories:
   - Codeforces

@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 2160. Minimum Sum of Four Digit Number After Splitting Digits"
-excerpt: "https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/"
+excerpt: "Minimum Sum of Four Digit Number After Splitting Digits"
 
 categories:
   - LeetCode

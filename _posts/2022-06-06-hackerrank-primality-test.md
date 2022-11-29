@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Primality Test"
-excerpt: "https://www.hackerrank.com/challenges/java-primality-test/problem?isFullScreen=true"
+excerpt: "Java Primality Test"
 
 categories:
   - HackerRank

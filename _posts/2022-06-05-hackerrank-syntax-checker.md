@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Syntax Checker"
-excerpt: "https://www.hackerrank.com/challenges/pattern-syntax-checker/problem?isFullScreen=true"
+excerpt: "Java Syntax Checker"
 
 categories:
   - HackerRank

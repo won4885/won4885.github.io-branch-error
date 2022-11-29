@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Minimum Absolute Difference in an Array"
-excerpt: "https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?isFullScreen=true"
+excerpt: "Minimum Absolute Difference in an Array"
 
 categories:
   - HackerRank

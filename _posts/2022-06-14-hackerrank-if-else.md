@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java If-Else"
-excerpt: "https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true"
+excerpt: "Java If-Else"
 
 categories:
   - HackerRank

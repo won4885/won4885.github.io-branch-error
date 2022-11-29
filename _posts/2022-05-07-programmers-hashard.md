@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 하샤드 수"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12947"
+excerpt: "하샤드 수"
 
 categories:
   - Programmers

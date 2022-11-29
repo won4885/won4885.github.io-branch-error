@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 콜라츠 추측"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12943"
+excerpt: "콜라츠 추측"
 
 categories:
   - Programmers

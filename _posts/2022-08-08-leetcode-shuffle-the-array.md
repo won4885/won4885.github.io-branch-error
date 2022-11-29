@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1470. Shuffle the Array"
-excerpt: "https://leetcode.com/problems/shuffle-the-array/"
+excerpt: "Shuffle the Array"
 
 categories:
   - LeetCode

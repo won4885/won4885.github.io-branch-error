@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Permuting Two Arrays"
-excerpt: "https://www.hackerrank.com/challenges/two-arrays/problem?isFullScreen=true"
+excerpt: "Permuting Two Arrays"
 
 categories:
   - HackerRank

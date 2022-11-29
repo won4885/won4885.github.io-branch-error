@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Save the Prisoner!"
-excerpt: "https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true"
+excerpt: "Save the Prisoner!"
 
 categories:
   - HackerRank

@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Maximizing XOR"
-excerpt: "https://www.hackerrank.com/challenges/maximizing-xor/problem?isFullScreen=true"
+excerpt: "Maximizing XOR"
 
 categories:
   - HackerRank

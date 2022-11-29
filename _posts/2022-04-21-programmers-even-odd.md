@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 짝수와 홀수"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12937"
+excerpt: "짝수와 홀수"
 
 categories:
   - Programmers

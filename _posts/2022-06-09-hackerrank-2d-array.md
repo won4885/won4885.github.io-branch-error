@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java 2D Array"
-excerpt: "https://www.hackerrank.com/challenges/java-2d-array/problem?isFullScreen=true"
+excerpt: "Java 2D Array"
 
 categories:
   - HackerRank

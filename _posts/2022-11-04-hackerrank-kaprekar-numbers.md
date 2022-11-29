@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Modified Kaprekar Numbers"
-excerpt: "https://www.hackerrank.com/challenges/kaprekar-numbers/problem?isFullScreen=true"
+excerpt: "Modified Kaprekar Numbers"
 
 categories:
   - HackerRank

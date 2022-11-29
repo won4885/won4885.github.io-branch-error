@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java BitSet"
-excerpt: "https://www.hackerrank.com/challenges/java-bitset/problem?isFullScreen=true"
+excerpt: "Java BitSet"
 
 categories:
   - HackerRank

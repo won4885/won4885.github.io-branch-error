@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Running Time of Algorithms"
-excerpt: "https://www.hackerrank.com/challenges/runningtime/problem?isFullScreen=true"
+excerpt: "Running Time of Algorithms"
 
 categories:
   - HackerRank

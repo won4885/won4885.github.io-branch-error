@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Subarray Division"
-excerpt: "https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true"
+excerpt: "Subarray Division"
 
 categories:
   - HackerRank

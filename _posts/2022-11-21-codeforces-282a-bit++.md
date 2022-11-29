@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 282A - Bit++"
-excerpt: "https://codeforces.com/problemset/problem/282/A"
+excerpt: "Bit++"
 
 categories:
   - Codeforces

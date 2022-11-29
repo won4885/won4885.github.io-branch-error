@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Diagonal Difference"
-excerpt: "https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true"
+excerpt: "Diagonal Difference"
 
 categories:
   - HackerRank

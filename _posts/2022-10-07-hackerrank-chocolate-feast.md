@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Chocolate Feast"
-excerpt: "https://www.hackerrank.com/challenges/chocolate-feast/problem?isFullScreen=true"
+excerpt: "Chocolate Feast"
 
 categories:
   - HackerRank

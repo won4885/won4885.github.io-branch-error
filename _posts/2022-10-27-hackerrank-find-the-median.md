@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Find the Median"
-excerpt: "https://www.hackerrank.com/challenges/find-the-median/problem?isFullScreen=true"
+excerpt: "Find the Median"
 
 categories:
   - HackerRank

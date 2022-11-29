@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Fair Rations"
-excerpt: "https://www.hackerrank.com/challenges/fair-rations/problem?isFullScreen=true"
+excerpt: "Fair Rations"
 
 categories:
   - HackerRank

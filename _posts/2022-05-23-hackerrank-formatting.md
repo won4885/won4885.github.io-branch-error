@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Output Formatting"
-excerpt: "https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true"
+excerpt: "Java Output Formatting"
 
 categories:
   - HackerRank

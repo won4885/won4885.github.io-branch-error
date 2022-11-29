@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Lisa's Workbook"
-excerpt: "https://www.hackerrank.com/challenges/lisa-workbook/problem?isFullScreen=true"
+excerpt: "Lisa's Workbook"
 
 categories:
   - HackerRank

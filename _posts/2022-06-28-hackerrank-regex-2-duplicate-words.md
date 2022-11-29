@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Regex 2 - Duplicate Words"
-excerpt: "https://www.hackerrank.com/challenges/duplicate-word/problem?isFullScreen=true"
+excerpt: "Java Regex 2 - Duplicate Words"
 
 categories:
   - HackerRank

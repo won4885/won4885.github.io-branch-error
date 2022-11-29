@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 자릿수 더하기"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12931"
+excerpt: "자릿수 더하기"
 
 categories:
   - Programmers

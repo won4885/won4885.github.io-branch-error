@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java HashSet"
-excerpt: "https://www.hackerrank.com/challenges/java-hashset/problem?isFullScreen=true"
+excerpt: "Java HashSet"
 
 categories:
   - HackerRank

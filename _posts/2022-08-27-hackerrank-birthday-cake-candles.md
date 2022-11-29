@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Birthday Cake Candles"
-excerpt: "https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true"
+excerpt: "Birthday Cake Candles"
 
 categories:
   - HackerRank

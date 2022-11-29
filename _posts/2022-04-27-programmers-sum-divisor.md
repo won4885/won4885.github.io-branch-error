@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 약수의 합"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12928"
+excerpt: "약수의 합"
 
 categories:
   - Programmers

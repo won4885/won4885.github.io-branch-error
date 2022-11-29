@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Mark and Toys"
-excerpt: "https://www.hackerrank.com/challenges/mark-and-toys/problem?isFullScreen=true"
+excerpt: "Mark and Toys"
 
 categories:
   - HackerRank

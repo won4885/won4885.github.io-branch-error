@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 771. Jewels and Stones"
-excerpt: "https://leetcode.com/problems/jewels-and-stones/"
+excerpt: "Jewels and Stones"
 
 categories:
   - LeetCode

@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Beautiful Binary String"
-excerpt: "https://www.hackerrank.com/challenges/beautiful-binary-string/problem?isFullScreen=true"
+excerpt: "Beautiful Binary String"
 
 categories:
   - HackerRank

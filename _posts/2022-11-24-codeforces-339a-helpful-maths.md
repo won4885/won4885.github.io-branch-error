@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 339A - Helpful Maths"
-excerpt: "https://codeforces.com/problemset/problem/339/A"
+excerpt: "Helpful Maths"
 
 categories:
   - Codeforces

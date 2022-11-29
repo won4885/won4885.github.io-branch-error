@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Counting Valleys"
-excerpt: "https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true"
+excerpt: "Counting Valleys"
 
 categories:
   - HackerRank

@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Alternating Characters"
-excerpt: "https://www.hackerrank.com/challenges/alternating-characters/problem?isFullScreen=true"
+excerpt: "Alternating Characters"
 
 categories:
   - HackerRank

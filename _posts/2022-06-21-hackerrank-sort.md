@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Sort"
-excerpt: "https://www.hackerrank.com/challenges/java-sort/problem?isFullScreen=true"
+excerpt: "Java Sort"
 
 categories:
   - HackerRank

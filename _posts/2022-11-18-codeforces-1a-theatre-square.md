@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 1A - Theatre Square"
-excerpt: "https://codeforces.com/problemset/problem/1/A"
+excerpt: "Theatre Square"
 
 categories:
   - Codeforces

@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1920. Build Array from Permutation"
-excerpt: "https://leetcode.com/problems/build-array-from-permutation/"
+excerpt: "Build Array from Permutation"
 
 categories:
   - LeetCode

@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 두 정수 사이의 합"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12912?language=java"
+excerpt: "두 정수 사이의 합"
 
 categories:
   - Programmers

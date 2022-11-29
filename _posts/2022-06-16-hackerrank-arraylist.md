@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java ArrayList"
-excerpt: "https://www.hackerrank.com/challenges/java-arraylist/problem?isFullScreen=true"
+excerpt: "Java ArrayList"
 
 categories:
   - HackerRank

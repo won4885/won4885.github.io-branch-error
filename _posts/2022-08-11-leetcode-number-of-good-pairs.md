@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1512. Number of Good Pairs"
-excerpt: "https://leetcode.com/problems/number-of-good-pairs/submissions/"
+excerpt: "Number of Good Pairs"
 
 categories:
   - LeetCode

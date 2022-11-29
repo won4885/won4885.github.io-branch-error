@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Beautiful Days at the Movies"
-excerpt: "https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true"
+excerpt: "Beautiful Days at the Movies"
 
 categories:
   - HackerRank

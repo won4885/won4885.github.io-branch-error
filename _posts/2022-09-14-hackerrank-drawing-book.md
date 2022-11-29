@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Drawing Book"
-excerpt: "https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true"
+excerpt: "Drawing Book"
 
 categories:
   - HackerRank

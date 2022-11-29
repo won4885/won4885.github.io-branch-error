@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Sequence Equation"
-excerpt: "https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true"
+excerpt: "Sequence Equation"
 
 categories:
   - HackerRank

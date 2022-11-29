@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank String Construction"
-excerpt: "https://www.hackerrank.com/challenges/c/problem?isFullScreen=true"
+excerpt: "String Construction"
 
 categories:
   - HackerRank

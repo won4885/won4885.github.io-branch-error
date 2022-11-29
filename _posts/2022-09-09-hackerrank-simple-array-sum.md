@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Simple Array Sum"
-excerpt: "https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true"
+excerpt: "Simple Array Sum"
 
 categories:
   - HackerRank

@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Maximum Perimeter Triangle"
-excerpt: "https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem?isFullScreen=true"
+excerpt: "Maximum Perimeter Triangle"
 
 categories:
   - HackerRank

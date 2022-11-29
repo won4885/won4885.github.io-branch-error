@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Divisible Sum Pairs"
-excerpt: "https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true"
+excerpt: "Divisible Sum Pairs"
 
 categories:
   - HackerRank

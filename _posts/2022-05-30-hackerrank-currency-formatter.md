@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Currency Formatter"
-excerpt: "https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true"
+excerpt: "Java Currency Formatter"
 
 categories:
   - HackerRank

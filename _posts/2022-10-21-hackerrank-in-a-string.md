@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank in a String!"
-excerpt: "https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem?isFullScreen=true"
+excerpt: "in a String!"
 
 categories:
   - HackerRank

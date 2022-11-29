@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Mars Exploration"
-excerpt: "https://www.hackerrank.com/challenges/mars-exploration/problem?isFullScreen=true"
+excerpt: "Mars Exploration"
 
 categories:
   - HackerRank

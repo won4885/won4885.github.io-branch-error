@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 문자열 내 마음대로 정렬하기"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12915"
+excerpt: "문자열 내 마음대로 정렬하기"
 
 categories:
   - Programmers

@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Service Lane"
-excerpt: "https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true"
+excerpt: "Service Lane"
 
 categories:
   - HackerRank

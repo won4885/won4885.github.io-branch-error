@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Singleton Pattern?"
-excerpt: "https://www.hackerrank.com/challenges/java-singleton/problem?isFullScreen=true"
+excerpt: "Java Singleton Pattern?"
 
 categories:
   - HackerRank

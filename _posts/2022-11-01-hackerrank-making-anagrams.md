@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Making Anagrams"
-excerpt: "https://www.hackerrank.com/challenges/making-anagrams/problem?isFullScreen=true"
+excerpt: "Making Anagrams"
 
 categories:
   - HackerRank

@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Lambda Expressions"
-excerpt: "https://www.hackerrank.com/challenges/java-lambda-expressions/problem?isFullScreen=true"
+excerpt: "Java Lambda Expressions"
 
 categories:
   - HackerRank

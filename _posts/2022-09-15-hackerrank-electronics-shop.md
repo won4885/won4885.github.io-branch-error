@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Electronics Shop"
-excerpt: "https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true"
+excerpt: "Electronics Shop"
 
 categories:
   - HackerRank

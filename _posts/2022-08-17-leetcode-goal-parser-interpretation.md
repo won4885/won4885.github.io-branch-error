@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1678. Goal Parser Interpretation"
-excerpt: "https://leetcode.com/problems/goal-parser-interpretation/"
+excerpt: "Goal Parser Interpretation"
 
 categories:
   - LeetCode

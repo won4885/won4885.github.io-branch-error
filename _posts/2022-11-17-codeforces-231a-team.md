@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 231A - Team"
-excerpt: "https://codeforces.com/problemset/problem/231/A"
+excerpt: "Team"
 
 categories:
   - Codeforces

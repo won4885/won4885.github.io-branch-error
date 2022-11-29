@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1603. Design Parking System"
-excerpt: "https://leetcode.com/problems/design-parking-system/submissions/"
+excerpt: "Design Parking System"
 
 categories:
   - LeetCode

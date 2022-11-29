@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmer 나누어 떨어지는 숫자 배열"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12910"
+excerpt: "나누어 떨어지는 숫자 배열"
 
 categories:
   - Programmers

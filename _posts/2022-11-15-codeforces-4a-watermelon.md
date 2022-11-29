@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 4A - Watermelon"
-excerpt: "https://codeforces.com/contest/4/problem/A"
+excerpt: "Watermelon"
 
 categories:
   - Codeforces

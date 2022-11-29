@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank The Hurdle Race"
-excerpt: "https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true"
+excerpt: "The Hurdle Race"
 
 categories:
   - HackerRank

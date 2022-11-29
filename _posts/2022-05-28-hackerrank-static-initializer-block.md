@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Static Initializer Block"
-excerpt: "https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true"
+excerpt: "Java Static Initializer Block"
 
 categories:
   - HackerRank

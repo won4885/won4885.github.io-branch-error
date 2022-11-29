@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Jumping on the Clouds"
-excerpt: "https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true"
+excerpt: "Jumping on the Clouds"
 
 categories:
   - HackerRank

@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 가운데 글자 가져오기"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12903"
+excerpt: "가운데 글자 가져오기"
 
 categories:
   - Programmers

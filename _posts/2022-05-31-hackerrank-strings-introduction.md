@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Strings Introduction"
-excerpt: "https://www.hackerrank.com/challenges/java-strings-introduction/problem?isFullScreen=true"
+excerpt: "Java Strings Introduction"
 
 categories:
   - HackerRank

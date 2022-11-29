@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Equalize the Array"
-excerpt: "https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true"
+excerpt: "Equalize the Array"
 
 categories:
   - HackerRank

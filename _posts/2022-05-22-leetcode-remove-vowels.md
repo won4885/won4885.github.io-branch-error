@@ -1,6 +1,6 @@
 ---
 title: "[Java] LeetCode 1119. Remove Vowels from a String"
-excerpt: "https://leetcode.com/problems/remove-vowels-from-a-string/"
+excerpt: "Remove Vowels from a String"
 
 categories:
   - LeetCode

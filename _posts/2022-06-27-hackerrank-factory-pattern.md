@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Factory Pattern"
-excerpt: "https://www.hackerrank.com/challenges/java-factory/problem?isFullScreen=true"
+excerpt: "Java Factory Pattern"
 
 categories:
   - HackerRank

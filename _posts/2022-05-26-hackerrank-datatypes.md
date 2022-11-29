@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Datatypes"
-excerpt: "https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true"
+excerpt: "Java Datatypes"
 
 categories:
   - HackerRank

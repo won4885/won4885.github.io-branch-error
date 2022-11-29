@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Taum and B'day"
-excerpt: "https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=true"
+excerpt: "Taum and B'day"
 
 categories:
   - HackerRank

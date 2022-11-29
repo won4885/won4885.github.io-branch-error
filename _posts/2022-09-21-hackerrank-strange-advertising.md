@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Viral Advertising"
-excerpt: "https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true"
+excerpt: "Viral Advertising"
 
 categories:
   - HackerRank

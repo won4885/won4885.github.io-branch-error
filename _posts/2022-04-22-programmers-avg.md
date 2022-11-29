@@ -1,6 +1,6 @@
 ---
 title: "[Java] Programmers 평균 구하기"
-excerpt: "https://programmers.co.kr/learn/courses/30/lessons/12944"
+excerpt: "평균 구하기"
 
 categories:
   - Programmers

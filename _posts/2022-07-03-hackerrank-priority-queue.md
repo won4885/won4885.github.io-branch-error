@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Priority Queue"
-excerpt: "https://www.hackerrank.com/challenges/java-priority-queue/problem?isFullScreen=true"
+excerpt: "Java Priority Queue"
 
 categories:
   - HackerRank

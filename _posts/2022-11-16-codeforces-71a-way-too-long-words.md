@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 71A - Way Too Long Words"
-excerpt: "https://codeforces.com/problemset/problem/71/A"
+excerpt: "Way Too Long Words"
 
 categories:
   - Codeforces

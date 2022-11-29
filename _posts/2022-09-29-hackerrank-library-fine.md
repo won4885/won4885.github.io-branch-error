@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Libary Fine"
-excerpt: "https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true"
+excerpt: "Libary Fine"
 
 categories:
   - HackerRank

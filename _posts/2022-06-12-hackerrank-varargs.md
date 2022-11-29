@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java Varargs - Simple Addition"
-excerpt: "https://www.hackerrank.com/challenges/simple-addition-varargs/problem?isFullScreen=true"
+excerpt: "Java Varargs - Simple Addition"
 
 categories:
   - HackerRank

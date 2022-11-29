@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Pangrams"
-excerpt: "https://www.hackerrank.com/challenges/pangrams/problem?isFullScreen=true"
+excerpt: "Pangrams"
 
 categories:
   - HackerRank

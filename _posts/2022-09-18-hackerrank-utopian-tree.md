@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Utopian Tree"
-excerpt: "https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true"
+excerpt: "Utopian Tree"
 
 categories:
   - HackerRank

@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Migratory Birds"
-excerpt: "https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true"
+excerpt: "Migratory Birds"
 
 categories:
   - HackerRank

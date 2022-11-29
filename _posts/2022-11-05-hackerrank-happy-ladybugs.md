@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Happy Ladybugs"
-excerpt: "https://www.hackerrank.com/challenges/happy-ladybugs/problem?isFullScreen=true"
+excerpt: "Happy Ladybugs"
 
 categories:
   - HackerRank

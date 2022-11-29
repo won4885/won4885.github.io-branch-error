@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 236A - Boy or Girl"
-excerpt: "https://codeforces.com/problemset/problem/236/A"
+excerpt: "Boy or Girl"
 
 categories:
   - Codeforces

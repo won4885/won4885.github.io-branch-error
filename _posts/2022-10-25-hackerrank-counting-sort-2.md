@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Counting Sort 2"
-excerpt: "https://www.hackerrank.com/challenges/countingsort2/problem?isFullScreen=true"
+excerpt: "Counting Sort 2"
 
 categories:
   - HackerRank

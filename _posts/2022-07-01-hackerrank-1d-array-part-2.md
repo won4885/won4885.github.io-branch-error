@@ -1,6 +1,6 @@
 ---
 title: "[Java] HackerRank Java 1D Array (Part 2)"
-excerpt: "https://www.hackerrank.com/challenges/java-1d-array/problem?isFullScreen=true"
+excerpt: "Java 1D Array (Part 2)"
 
 categories:
   - HackerRank
