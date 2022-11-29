@@ -2,11 +2,31 @@
 main:
   - title: "Home"
     url: https://won4885.github.io/
+
   - title: "About"
-    url: https://won4885.github.io/about/
-  - title: "Github"
+    url: /about/
+
+  - title: "GitHub"
     url: https://github.com/won4885
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+# sidebar navigation (categories)
+# 2022.02.15 sidebar update : simple ver.
+categories:
+  - title: "LeetCode"
+    url: /categories/leetcode/
+  - title: "HackerRank"
+    url: /categories/hackerrank/
+  - title: "Codeforces"
+    url: /categories/codeforces/
+  - title: "Programmers"
+    url: /categories/programmers/
+  - title: "Inflearn"
+    url: /categories/inflearn/
+  - title: "recap" 
+    url: /categories/recap/
