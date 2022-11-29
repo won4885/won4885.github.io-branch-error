@@ -3,7 +3,7 @@ title: "[Java] Codeforces 791A - Bear and Big Brother"
 excerpt: "Bear and Big Brother"
 
 categories:
-  - codeforces
+  - Codeforces
 tags:
   - [Java]
 
