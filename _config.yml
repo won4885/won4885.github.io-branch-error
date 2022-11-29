@@ -96,19 +96,19 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-P4F939BKDX"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "Jun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "for **algorithms**"
+  avatar           : "/assets/images/bio-photo.png"
+  bio              : "**algorithms**"
   location         : "Seoul, Korea"
-  email            : "2dcoder@naver.com"
+  # email            : "2dcoder@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
