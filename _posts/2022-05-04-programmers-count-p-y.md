@@ -1,5 +1,5 @@
 ---
-title: "[Java] Programmer 문자열 내 p와 y의 개수"
+title: "[Java] Programmers 문자열 내 p와 y의 개수"
 excerpt: "문자열 내 p와 y의 개수"
 
 categories:
