@@ -1,6 +1,6 @@
 ---
 title: "[Java] Codeforces 69A - Young Physicist"
-excerpt: "Young Physicist""
+excerpt: "Young Physicist"
 
 categories:
   - Codeforces
