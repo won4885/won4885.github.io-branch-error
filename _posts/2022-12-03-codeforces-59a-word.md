@@ -29,8 +29,8 @@ import java.io.InputStreamReader;
 
 public class Solution {
     public static String returnUpperOrLower(String input) {
-        // upper == lower -> to lower
-        // upper != lower -> to upper
+        // upper num == lower num -> to lower
+        // upper num != lower num -> to upper
         int countIsUpper = 0;
         for (int i = 0; i < input.length(); i++) {
             if (Character.isUpperCase(input.charAt(i))) {
