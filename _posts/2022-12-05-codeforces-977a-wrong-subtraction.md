@@ -30,7 +30,7 @@ import java.util.StringTokenizer;
 
 public class Solution {
     public static int wrongSubtraction(int n, int k) {
-        for (int i = 0; i < k; i++) {
+        for (int i = 0; i < k; i++) { 
             if (n % 10 != 0) {
                 n--;
             } else { // n % 10 == 0
