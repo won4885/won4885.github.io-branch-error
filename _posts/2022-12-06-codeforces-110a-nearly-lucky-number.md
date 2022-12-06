@@ -23,7 +23,7 @@ last_modified_at: 2022-12-06
 ## Solution
 
 ```java
-import java.io.BufferedReader;
+import java.io.BufferedReader; 
 import java.io.IOException;
 import java.io.InputStreamReader;
 
