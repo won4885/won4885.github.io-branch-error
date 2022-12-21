@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Sully"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "**algorithms**"
-  location         : "Seoul, Korea"
+  bio              : "**stay foolish**"
+  location         : "Korea"
   # email            : "2dcoder@naver.com"
   links:
     - label: "Email"
@@ -115,7 +115,7 @@ author:
       url: "mailto:2dcoder@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://won4885.github.io"
+      # url: "https://won4885.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
