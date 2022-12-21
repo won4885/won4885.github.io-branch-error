@@ -16,7 +16,7 @@ date: 2022-12-20
 last_modified_at: 2022-12-20
 ---
 
-<>
+<https://codeforces.com/problemset/problem/200/B>
 
 <br>
 
