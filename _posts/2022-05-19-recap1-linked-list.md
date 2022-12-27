@@ -3,11 +3,11 @@ title: "[자료구조] Linked List (연결 리스트)"
 excerpt: "Linked List 정리"
 
 categories:
-  - Recap
+  - Data Structure
 tags:
   - [data_structure]
 
-permalink: /recap/recap1-linked-list/
+permalink: /data-structure/recap1-linked-list/
 
 toc: true
 toc_sticky: true

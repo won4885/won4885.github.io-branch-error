@@ -3,11 +3,11 @@ title: "[자료구조] Stack and Queue (스택과 큐)"
 excerpt: "스택과 큐 정리"
 
 categories:
-  - Recap
+  - Data Structure
 tags:
   - [data_structure]
 
-permalink: /recap/recap2-stack-queue/
+permalink: /data-structure/recap2-stack-queue/
 
 toc: true
 toc_sticky: true

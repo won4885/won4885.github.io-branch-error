@@ -3,11 +3,11 @@ title: "[자료구조] Generic 프로그래밍"
 excerpt: "객체지향 정리"
 
 categories:
-  - Recap
+  - Data Structure
 tags:
   - [data_structure]
 
-permalink: /recap/recap5-generic/
+permalink: /data-structure/recap5-generic/
 
 toc: true
 toc_sticky: true

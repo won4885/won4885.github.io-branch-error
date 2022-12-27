@@ -3,11 +3,11 @@ title: "[자료구조] Heap & Tree (힙 & 트리)"
 excerpt: "힙과 트리 정리"
 
 categories:
-  - Recap
+  - Data Structure
 tags:
   - [data_structure]
 
-permalink: /recap/recap2-heap-tree/
+permalink: /data-structure/recap2-heap-tree/
 
 toc: true
 toc_sticky: true

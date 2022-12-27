@@ -3,11 +3,11 @@ title: "[자료구조] Big-Oh notation (빅 오 표기법)"
 excerpt: "빅 오 표기법 정리"
 
 categories:
-  - Recap
+  - Data Structure
 tags:
   - [data_structure]
 
-permalink: /recap/recap2-big-oh/
+permalink: /data-structure/recap2-big-oh/
 
 toc: true
 toc_sticky: true

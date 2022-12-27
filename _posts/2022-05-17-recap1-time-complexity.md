@@ -3,11 +3,11 @@ title: "[자료구조] Time Complexity (시간 복잡도)"
 excerpt: "시간 복잡도 정리"
 
 categories:
-  - Recap
+  - Data Structure
 tags:
   - [data_structure]
 
-permalink: /recap/recap1-time-complexity/
+permalink: /data-structure/recap1-time-complexity/
 
 toc: true
 toc_sticky: true

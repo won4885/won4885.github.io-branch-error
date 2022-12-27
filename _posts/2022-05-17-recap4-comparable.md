@@ -3,11 +3,11 @@ title: "[자료구조] Comparable 인터페이스"
 excerpt: "객체지향 정리"
 
 categories:
-  - Recap
+  - Data Structure
 tags:
   - [data_structure]
 
-permalink: /recap/recap4-comparable/
+permalink: /data-structure/recap4-comparable/
 
 toc: true
 toc_sticky: true

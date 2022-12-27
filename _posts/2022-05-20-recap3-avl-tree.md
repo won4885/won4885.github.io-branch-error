@@ -3,11 +3,11 @@ title: "[자료구조] AVL Tree (AVL 트리)"
 excerpt: "AVL 트리 정리"
 
 categories:
-  - Recap
+  - Data Structure
 tags:
   - [data_structure]
 
-permalink: /recap/recap3-avl-tree/
+permalink: /data-structure/recap3-avl-tree/
 
 toc: true
 toc_sticky: true

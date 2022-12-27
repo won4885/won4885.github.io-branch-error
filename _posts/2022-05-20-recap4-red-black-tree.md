@@ -3,11 +3,11 @@ title: "[자료구조] Red Black Tree (레드 블랙 트리)"
 excerpt: "레드 블랙 트리 정리"
 
 categories:
-  - Recap
+  - Data Structure
 tags:
   - [data_structure]
 
-permalink: /recap/recap4-red-black-tree/
+permalink: /data-structure/recap4-red-black-tree/
 
 toc: true
 toc_sticky: true

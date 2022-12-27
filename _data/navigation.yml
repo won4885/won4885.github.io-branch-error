@@ -28,4 +28,6 @@ categories:
   - title: "Inflearn"
     url: /categories/inflearn/
   - title: "recap" 
-    url: /categories/recap/
+    children:
+      - title: "자료구조"
+        url: /categories/data-structure/
