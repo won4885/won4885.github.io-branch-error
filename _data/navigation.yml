@@ -17,17 +17,19 @@ main:
 
 # sidebar navigation (categories)
 categories:
-  - title: "LeetCode"
-    url: /categories/leetcode/
-  - title: "HackerRank"
-    url: /categories/hackerrank/
-  - title: "Codeforces"
-    url: /categories/codeforces/
-  - title: "Programmers"
-    url: /categories/programmers/
-  - title: "Inflearn"
-    url: /categories/inflearn/
-  - title: "recap" 
+  - title: "💻 Algorithms"
     children:
-      - title: "자료구조"
+      - title: "LeetCode"
+        url: /categories/leetcode/
+      - title: "HackerRank"
+        url: /categories/hackerrank/
+      - title: "Codeforces"
+        url: /categories/codeforces/
+      - title: "Programmers"
+        url: /categories/programmers/
+      - title: "Inflearn"
+        url: /categories/inflearn/
+  - title: "💬 recap" 
+    children:
+      - title: "Data Structure"
         url: /categories/data-structure/
