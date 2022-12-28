@@ -27,6 +27,8 @@ categories:
         url: /categories/codeforces/
       - title: "Programmers"
         url: /categories/programmers/
+      - title: "Baekjoon"
+        url: /categories/baekjoon/
       - title: "Inflearn"
         url: /categories/inflearn/
   - title: "💬 recap" 
