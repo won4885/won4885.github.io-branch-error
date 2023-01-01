@@ -35,3 +35,8 @@ categories:
     children:
       - title: "Data Structure"
         url: /categories/data-structure/
+
+  - title: "👨‍💻 CodeSquad" 
+    children:
+      - title: "TIL"
+        url: /categories/til/
