@@ -16,7 +16,7 @@ date: 2023-01-14
 last_modified_at: 2023-01-14
 ---
 
-<https://school.programmers.co.kr/learn/courses/30/lessons/82612>
+- <https://school.programmers.co.kr/learn/courses/30/lessons/82612>
 
 <br>
 
