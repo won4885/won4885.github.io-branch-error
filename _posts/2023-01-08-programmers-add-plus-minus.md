@@ -15,8 +15,7 @@ toc_sticky: true
 date: 2023-01-08
 last_modified_at: 2023-01-08
 ---
-
-<https://school.programmers.co.kr/learn/courses/30/lessons/76501>
+- [Reference](https://school.programmers.co.kr/learn/courses/30/lessons/76501)
 
 <br>
 
