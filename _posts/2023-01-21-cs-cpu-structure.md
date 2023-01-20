@@ -7,7 +7,7 @@ categories:
 tags:
   - [codesquad]
 
-permalink: /categories/cs/cs-1/
+permalink: /categories/cs/cs-cpu-structure/
 
 toc: true
 toc_sticky: true
