@@ -39,6 +39,5 @@ categories:
     children:
       - title: "CS"
         url: /categories/cs/
-
       - title: "TIL"
         url: /categories/til/
